@@ -1,6 +1,7 @@
 {
-  "name": "ant-design-pro",
+  "name": "2022-website-umi",
   "version": "5.2.0",
+  "homepage": "http://aminhp93.github.io/2022-website-umi",
   "private": true,
   "description": "An out-of-box UI solution for enterprise applications",
   "scripts": {
